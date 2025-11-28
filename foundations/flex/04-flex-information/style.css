@@ -39,10 +39,7 @@ img {
 }
 
 .item {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  flex: 0 0 200px;
+  max-width: 200px;
 }
 
 .text {
